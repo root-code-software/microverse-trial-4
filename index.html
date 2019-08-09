@@ -3,33 +3,41 @@
   <head>
     <meta charset="UTF-8">
     <title>Fork Me! FCC: Test Suite Template</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
   </head>
 
   <body>
     <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-    <main id="main">
+    <main id="main" class="container">
       <h1 id="title">
         Albert Einstein Tribute Webpage
       </h1>
-      <div id="img-div">
-        <img id="image" src="https://ichef.bbci.co.uk/news/660/media/images/82399000/jpg/_82399978_75952740.jpg" class="tribute-img" alt="Albert Einstein Picture showing his tongue"/>
-        <caption id="img-caption">
+      <div id="img-div" class="text-center">
+        <img 
+        id="image" 
+        src="https://ichef.bbci.co.uk/news/660/media/images/82399000/jpg/_82399978_75952740.jpg" 
+        style="display: block; margin-left: auto; margin-right: auto; width: 40%; max-width: 50%;"
+        alt="Albert Einstein Picture showing his tongue"/>
+        <figcaption id="img-caption">
           Albert Einstein 's photo
-        </caption>
+        </figcaption>
+        <p id="tribute-info">
+          Albert Einstein Timeline ( 1879 - 1955 ) <br>
+          The most famous of all the scientists - remembered for his theory E = mc2<br>
+          Dates relating to his early life, family and education <br>
+          His Special Theory of Relativity<br>
+          Professor of theoretical physics<br>
+          His citizenship of the USA <br>
+        </p>
       </div>
-      <p id="tribute-info">
-        Albert Einstein Timeline ( 1879 - 1955 ) <br>
-        The most famous of all the scientists - remembered for his theory E = mc2<br>
-        Dates relating to his early life, family and education <br>
-        His Special Theory of Relativity<br>
-        Professor of theoretical physics<br>
-        His citizenship of the USA <br>
-      </p>
       for more information see this
       <a href="http://www.datesandevents.org/people-timelines/26-albert-einstein-timeline.htm" id="tribute-link" target="_blank" >
          link
       </a>
+
+      <h2>Timeline: </h2>
+      
       <p>
     1879	This timeline starts on March 14, 1879 when Albert Einstein was born in Ulm, Wurttemberg, Germany. His parents were Hermann and Pauline Einstein.<br>
     1880	The family move to Munich	<br> 
