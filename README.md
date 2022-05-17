@@ -1,4 +1,5 @@
 <!-- PROJECT SHIELDS -->
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues-open][issues-open-shield]][issues-url]
@@ -10,12 +11,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://">
-	  <img src="https://img.icons8.com/color/96/000000/full-image.png" alt="Logo"/>
+  <a href="https://github.com/Israel-Laguan/microverse-trial-4">
+	  <img src="https://user-images.githubusercontent.com/67714964/168819718-2acaa18a-2fd6-45f0-9ff7-34430e543088.jpg" alt="logo"/>
   </a>
 
   <h1 align="center">
-	Microverse-trial-4
+	Albert Einstein Tribute Webpage 
   </h1>
 
   <p align="center">
@@ -32,10 +33,10 @@
 
 ## Table of Contents
 
-1. [Author](#author)
-2. [Contributing](#contributing)
-3. [Show your support](#show-your-support)
-4. [License](#license)
+- [Author](#author)
+- [Contributing](#contributing)
+- [Show your support](#show-your-support)
+- [License](#license)
 
 # Author
 
@@ -81,7 +82,7 @@
         </div>
     </td>
   </tr>
-</table> 
+</table>
 
 # Contributing
 
@@ -106,6 +107,7 @@ Icons from:
 Feel free to fork this project and improve it
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Israel-Laguan/microverse-trial-4?style=for-the-badge
 [contributors-url]: https://github.com/Israel-Laguan/microverse-trial-4/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Israel-Laguan/microverse-trial-4?style=for-the-badge
