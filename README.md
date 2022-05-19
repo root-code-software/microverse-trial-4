@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Israel-Laguan/microverse-trial-4">
-	  <img src="https://user-images.githubusercontent.com/67714964/168819718-2acaa18a-2fd6-45f0-9ff7-34430e543088.jpg" alt="logo"/>
+	  <img src="https://user-images.githubusercontent.com/67714964/169250004-ef79486c-97c1-482b-8a79-34e8c74c4f8f.jpg" alt="logo"/>
   </a>
 
   <h1 align="center">
