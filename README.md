@@ -1,8 +1,8 @@
 <!-- PROJECT SHIELDS -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues-open][issues-open-shield]](https://github.com/Israel-Laguan/microverse-trial-4/issues?q=is%3Aopen+is%3Aissue)
-[![Issues-closed][issues-closed-shield]](https://github.com/Israel-Laguan/microverse-trial-4/issues?q=is%3Aissue+is%3Aclosed)
+[![Issues-open][issues-open-shield]][issues-open-url]
+[![Issues-closed][issues-closed-shield]][issues-close-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Framework][badge-framework]][framework-url]
 [![contributions welcome][contributions-welcome]][issues-url]
@@ -114,6 +114,8 @@ Feel free to fork this project and improve it
 [stars-url]: https://github.com/Israel-Laguan/microverse-trial-4/stargazers
 [issues-open-shield]: https://img.shields.io/github/issues/Israel-Laguan/microverse-trial-4?style=for-the-badge
 [issues-url]: https://github.com/Israel-Laguan/microverse-trial-4/issues
+[issues-open-url]: https://github.com/Israel-Laguan/microverse-trial-4/issues?q=is%3Aopen+is%3Aissue
+[issues-close-url]: https://github.com/Israel-Laguan/microverse-trial-4/issues?q=is%3Aissue+is%3Aclosed
 [issues-closed-shield]: https://img.shields.io/github/issues-closed/Israel-Laguan/microverse-trial-4?style=for-the-badge
 [badge-framework]: https://img.shields.io/badge/framework-here-9cf?style=for-the-badge
 [framework-url]: https://google.com
