@@ -101,7 +101,7 @@ Icons from:
 
 [![License][badge-license]](http://badges.mit-license.org)
 
-📝 This project is licensed under the [MIT](LICENSE)\
+📝 This project is licensed under the [MIT](license.txt)\
 Feel free to fork this project and improve it
 
 <!-- MARKDOWN LINKS & IMAGES -->
